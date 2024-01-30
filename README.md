@@ -4,7 +4,7 @@
 
 ### I'm a data analyst
 
-- 🔭 I'm currently freelancing
+- 🔭 I'm currently freelancing and looking for a job
 - 🥅 2024 Goals: TBD
 - ⚡ How to reach me: [Telegram](t.me/naumchenkora)
 
