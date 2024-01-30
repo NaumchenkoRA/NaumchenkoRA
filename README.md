@@ -15,7 +15,7 @@ Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, SciPy, SQL, PostgreSQL, Tab
   
 Examples of my projects:  
 
-| Python | A/B test | Dashbord | SQL |
+| Python | A/B-test | Dashboard | SQL |
 |----------|----------|----------|----------|
 | [Исследование 1](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)    | [A/Б тест 1](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)  | [Дашборд 1](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)   | [Проект 1](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)  |
 | [Исследование 2](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)   | [A/Б тест 2](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)      | [Дашборд 2](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)         | [Проект 2](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)  |
