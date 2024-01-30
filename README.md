@@ -8,6 +8,8 @@ I'm a data analyst
 - 🥅 2024 Goals: TBD
 - ⚡ How to reach me: t.me/naumchenkora
 
+DevOps Tools:
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 
 Примеры моих работ:  
