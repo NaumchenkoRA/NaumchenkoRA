@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently freelancing
 - 🥅 2024 Goals: TBD
-- ⚡ How to reach me: t.me/naumchenkora
+- ⚡ How to reach me: [Telegram](t.me/naumchenkora)
 
 ### Data Analyst Tools:  
 Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, SciPy, SQL, PostgreSQL, Tableau. 
