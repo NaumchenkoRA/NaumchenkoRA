@@ -13,7 +13,7 @@ SQL, PostgreSQL, Tableau, Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, S
   
 
   
-Examples of my projects:  
+### Examples of my projects:  
 
 | Python | A/B-test | Dashboard | SQL |
 |----------|----------|----------|----------|
