@@ -8,10 +8,10 @@ I'm a data analyst
 - 🥅 2024 Goals: TBD
 - ⚡ How to reach me: t.me/naumchenkora
 
-DevOps Tools:
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
-
-
+DevOps Tools:  
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras  
+  
+  
 Примеры моих работ:  
 Python    
 [Исследование 1](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)  [Исследование 2](https://github.com/NaumchenkoRA/Portfolio/tree/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”%20—%20сравнение%20пользователей%20двух%20городов)      
