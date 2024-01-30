@@ -9,7 +9,7 @@
 - ⚡ How to reach me: [Telegram](t.me/naumchenkora)
 
 ### Data Analyst Tools:  
-Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, SciPy, SQL, PostgreSQL, Tableau. 
+SQL, PostgreSQL, Tableau, Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, SciPy.
   
 
   
