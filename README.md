@@ -6,7 +6,9 @@ I'm a data analyst
 
 - 🔭 I'm currently freelancing
 - 🥅 2024 Goals: TBD
-- ⚡ How to reach me: EMAIL, TELEGRAM ssulki
+- ⚡ How to reach me: ![image](t.me/naumchenkora)
+
+
 
 Примеры моих работ:  
 Python    
