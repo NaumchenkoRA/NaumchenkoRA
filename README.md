@@ -11,6 +11,7 @@ I'm a data analyst
 DevOps Tools:  
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras  
   
+
   
 Примеры моих работ:  
 Python    
