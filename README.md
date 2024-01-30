@@ -6,8 +6,7 @@ I'm a data analyst
 
 - 🔭 I'm currently freelancing
 - 🥅 2024 Goals: TBD
-- ⚡ How to reach me: [![image](https://github.com/NaumchenkoRA/NaumchenkoRA/assets/142537689/ddd86efc-3590-4ce1-8b10-75ae0390c2f7)
-](t.me/naumchenkora)
+- ⚡ How to reach me: t.me/naumchenkora
 
 
 
