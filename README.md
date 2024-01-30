@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-### My name is Naumchenko Ruslan 🙋
+## My name is Naumchenko Ruslan 🙋
 
-## I'm a data analyst
+### I'm a data analyst
 
 - 🔭 I'm currently freelancing
 - 🥅 2024 Goals: TBD
 - ⚡ How to reach me: t.me/naumchenkora
 
-## Data Analyst Tools:  
+### Data Analyst Tools:  
 Python, Pandas, Numpy, Matplotlib, A/B-test, Plotly, SciPy, SQL, PostgreSQL, Tableau. 
   
 
   
-## Примеры моих работ:  
+### Примеры моих работ:  
 
 | Python | Python | Dashbord | SQL |
 |----------|----------|----------|----------|
