@@ -5,7 +5,8 @@ My name is Naumchenko Ruslan 🙋
 I'm a data analyst
 
 - 🔭 I'm currently freelancing
-- 📫 How to reach me: EMAIL, TELEGRAM ssulki
+- 🥅 2024 Goals: TBD
+- ⚡ How to reach me: EMAIL, TELEGRAM ssulki
 
 Примеры моих работ:  
 Python    
