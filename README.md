@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently freelancing and looking for a job
 - 🥅 2024 Goals: TBD
-- ⚡ How to reach me: [Telegram](t.me/naumchenkora)
+- ⚡ How to reach me: [Telegram](https://t.me/naumchenkora)
 
 ### Data Analyst Tools:  
 SQL, PostgreSQL, Tableau, Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, A/B-test.
