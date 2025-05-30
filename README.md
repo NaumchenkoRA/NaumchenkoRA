@@ -2,9 +2,9 @@
 
 ## My name is Naumchenko Ruslan 🙋
 
-### I'm a data analyst
+### I'm a product analyst
 
-- 🔭 I'm currently freelancing and looking for a job
+- 🔭 I am currently working as a product analyst, but open to new opportunities
 - 🥅 2025 Goals: TBD
 - ⚡ How to reach me: [Telegram](https://t.me/naumchenkora), naumchenkora@gmail.com
 
