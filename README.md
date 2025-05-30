@@ -9,7 +9,7 @@
 - ⚡ How to reach me: [Telegram](https://t.me/naumchenkora), naumchenkora@gmail.com
 
 ### Data Analyst Tools:  
-SQL, PostgreSQL/Clickhouse, Tableau/DataLens, Redash, Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, A/B-test.
+SQL, PostgreSQL/Clickhouse, Redash, Tableau/DataLens/Superset, Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy), A/B-test, Airflow, ETL.
   
 
   
